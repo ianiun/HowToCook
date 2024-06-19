@@ -21,3 +21,6 @@
 * [凉拌油麦菜](./../dishes/vegetable_dish/凉拌油麦菜.md)
 * [凉拌黄瓜](./../dishes/vegetable_dish/凉拌黄瓜.md)
 * [炒滑蛋](./../dishes/vegetable_dish/炒滑蛋/炒滑蛋.md)
+
+| [< HOME](../README.md) | [2 星难度菜品 >](./2Star.md) |
+| ------------------------------- | ------------------------------- |
